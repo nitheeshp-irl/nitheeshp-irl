@@ -40,8 +40,8 @@ My goal is to bridge the gap between business and technology — enabling organi
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitheeshp/)
-- 🌐 [Website](https://cloudops.io) *(placeholder – update if different)*
-- 📧 Email: [nitheesh@example.com](mailto:nitheesh@example.com)
+- 🌐 [Website](https://cloudops.io)
+- 📧 [nitheesh@example.com](mailto:nitheesh@example.com)
 
 ---
 
