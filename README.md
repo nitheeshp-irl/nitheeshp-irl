@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Nitheesh 👋
 
-<!--
-**nitheeshp-irl/nitheeshp-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Consultant | DevOps Expert | AWS | Kubernetes | GitOps | CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- ☁️ AWS (EC2, S3, Lambda, EKS)
+- ⚙️ DevOps (Terraform, Helm, ArgoCD, Jenkins)
+- 🐳 Docker & Kubernetes
+- 🧪 CI/CD (GitHub Actions, ArgoCD, Kargo)
+- 📊 Monitoring (Prometheus, Grafana)
+
+---
+
+### 📈 GitHub Stats
+
+![Nitheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitheeshp-irl&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINK)
+- 🌐 [Website](https://yourwebsite.com)
+- 📧 Email: your@email.com
