@@ -1,22 +1,53 @@
 # 👋 Hi, I'm Nitheesh Poojary
 
-I'm a **Cloud and DevOps Consultant** with **16 years of experience** spanning roles such as **Cloud Engineer**, **Systems Architect**, and **DevOps Specialist**.
+I'm a **Cloud and DevOps Consultant** with **16 years of experience** across roles such as **Cloud Engineer**, **Systems Architect**, and **DevOps Specialist**.
 
 I specialize in helping businesses build **scalable**, **secure**, and **robust applications on AWS**, following cloud best practices and real-world operational strategies.
 
-My goal is to bridge the gap between business and technology — enabling organizations to **understand**, **adopt**, and **thrive** in the cloud by providing hands-on support, architectural guidance, and platform expertise.
+My mission is to bridge the gap between business and technology — enabling organizations to **understand**, **adopt**, and **thrive** in the cloud by providing hands-on support, architectural guidance, and platform expertise.
 
 ---
 
 ### 🧰 Tech Stack
 
-- **☁️ Cloud Platforms:** AWS  
-- **🚀 CI/CD Tools:** Jenkins, Octopus Deploy, GitLab CI, Bamboo, ArgoCD, AWS CodePipeline, GitHub Actions, TeamCity  
-- **📦 Containerization:** Docker, Kubernetes, Amazon EKS  
-- **🔧 Automation & IaC:** Python, Ansible, AWS CloudFormation, Terraform, Packer  
-- **💻 Operating Systems:** Linux (Ubuntu, Amazon Linux), Windows Server  
-- **📋 Project Management:** JIRA, Asana, Trello  
-- **📈 Monitoring & Observability:** Amazon CloudWatch, AppDynamics, Grafana, New Relic  
+<!-- Cloud -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+
+<!-- CI/CD -->
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-%23005588.svg?style=flat&logo=octopusdeploy&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=flat&logo=bamboo&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%230072C6.svg?style=flat&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-%23000000.svg?style=flat&logo=jetbrains&logoColor=white)
+
+<!-- Containers -->
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+
+<!-- IaC & Automation -->
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF4F8B.svg?style=flat&logo=aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-%230073B3.svg?style=flat&logo=packer&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
+<!-- OS -->
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
+
+<!-- Monitoring -->
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=flat&logo=amazonaws&logoColor=white)
+![AppDynamics](https://img.shields.io/badge/AppDynamics-%230073B3.svg?style=flat&logo=appdynamics&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-%230073B3.svg?style=flat&logo=newrelic&logoColor=white)
+
+<!-- Project Management -->
+![Jira](https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-%23fc636b.svg?style=flat&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
 
 ---
 
@@ -24,8 +55,8 @@ My goal is to bridge the gap between business and technology — enabling organi
 
 - Architecting GitOps-based CI/CD workflows using ArgoCD and Kargo  
 - Building cost-effective AWS solutions for mid-sized businesses  
-- Implementing event-driven automation and compliance with AWS Lambda, SSM, and SNS  
-- Designing infrastructure with Terraform & Helm across multiple AWS accounts  
+- Automating patch compliance and SSM notifications to Slack  
+- Designing multi-account AWS infrastructure with Terraform & Helm  
 
 ---
 
@@ -40,10 +71,17 @@ My goal is to bridge the gap between business and technology — enabling organi
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitheeshp/)
-- 🌐 [Website](https://www.freecodecamp.org/news/author/nitheeshp/)
-- 📧 [nitheesh@example.com](mailto:nitheesh@example.com)
+- 🌐 [Website](https://cloudops.io) *(placeholder – update if needed)*
+- 📧 Email: [nitheesh@example.com](mailto:nitheesh@example.com)
+
+---
+
+### 🎯 Fun Facts
+
+- 🏃 Marathon finisher and fitness enthusiast  
+- 🎸 Plays guitar to unwind  
+- 🧠 Exploring GitOps, AI in DevOps, and observability tooling  
 
 ---
 
 _“Great software is built by simplifying the complex — one layer at a time.”_
-
