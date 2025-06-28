@@ -73,8 +73,8 @@ My mission is to bridge the gap between business and technology — enabling org
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitheeshp/)
-- 🌐 [Website](https://cloudops.io) *(placeholder – update if needed)*
-- 📧 Email: [nitheesh@outlook.com](mailto:nitheesh@outlook.com)
+- 🌐 [Website](https://cloudops.io)
+- 📧 [nitheesh@outlook.com](mailto:nitheesh@outlook.com)
 
 
 ---
