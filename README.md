@@ -62,9 +62,11 @@ My mission is to bridge the gap between business and technology — enabling org
 
 ### 📊 GitHub Stats
 
-![Nitheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitheeshp-irl&show_icons=true&theme=radical)
+![Nitheesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitheeshp-irl&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshp-irl&layout=compact&theme=radical)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nitheeshp-irl&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -72,15 +74,8 @@ My mission is to bridge the gap between business and technology — enabling org
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitheeshp/)
 - 🌐 [Website](https://cloudops.io) *(placeholder – update if needed)*
-- 📧 Email: [nitheesh@example.com](mailto:nitheesh@example.com)
+- 📧 Email: [nitheesh@outlook.com](mailto:nitheesh@outlook.com)
 
----
-
-### 🎯 Fun Facts
-
-- 🏃 Marathon finisher and fitness enthusiast  
-- 🎸 Plays guitar to unwind  
-- 🧠 Exploring GitOps, AI in DevOps, and observability tooling  
 
 ---
 
