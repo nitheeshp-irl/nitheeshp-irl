@@ -82,7 +82,7 @@ I’m open to collaborating on:
 
 📬 **Contact Me**:
 - **LinkedIn**: [linkedin.com/in/nitheeshp](https://www.linkedin.com/in/nitheeshp/)
-- **Email**: your-email@example.com
+- **Email**: nitheeshp@outlook.com
 
 ---
 
@@ -102,4 +102,4 @@ All public repos are licensed under the **MIT License**, unless stated otherwise
 
 ---
 
-💡 *“Don’t just build systems that work — build systems that last.”*
+💡 *“Practice like you've never won. Perform like you've never lost.”*
